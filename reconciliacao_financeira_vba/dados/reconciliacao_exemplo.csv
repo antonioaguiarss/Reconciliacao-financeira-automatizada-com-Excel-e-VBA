@@ -1,0 +1,20 @@
+﻿ID_Transacao,Nota_Extrato,Fornecedor_Extrato,Valor_Extrato,Nota_Livro,Fornecedor_Livro,Valor_Nota,Resultado,Detalhes
+TX001,NF-1001,LinguaPro,2500.0,NF-1001,LinguaPro,2500.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX002,GW-778,GlobalWords,1800.0,GW-778,GlobalWords,1800.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX003,NF-1088,LinguaPro,4200.0,NF-1088,LinguaPro,4200.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX004,NF-1093,LinguaPro,4200.0,NF-1093,LinguaPro,4200.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX005,GW-901,GlobalWords,1750.0,GW-901,GlobalWords,1750.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX006,GW-910,GlobalWords,1750.0,GW-910,GlobalWords,1750.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX007,TB-101,TextBridge,1200.0,TB-101,TextBridge,1200.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX008,TB-102,TextBridge,1250.0,TB-102,TextBridge,1250.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX009,WC-500,WordCraft,3000.0,WC-500,WordCraft,3000.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX010,PT-77I,PolyText,2000.0,PT-771,PolyText,2000.0,REVISAR: NOTA DIFERENTE,"Fornecedor, moeda e valor conferem, mas o número da nota não."
+TX011,LW-221,LocaleWorks,1495.0,,,,SEM NOTA CORRESPONDENTE,"Nenhuma nota disponível corresponde à nota, fornecedor e moeda do extrato."
+TX012,VP-100,VerbaPlus,800.0,VP-100,VerbaPlus,800.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+TX013,SB-100,ScriptBridge,990.0,,,,REVISAR: ESTORNO,Transação estornada no extrato; validar lançamento contábil.
+TX014,NF-7777,LinguaPro,777.0,,,,SEM NOTA CORRESPONDENTE,"Nenhuma nota disponível corresponde à nota, fornecedor e moeda do extrato."
+TX015,NL-500,NovaLingo,650.0,NL-500,NovaLingo,650.0,CONCILIADO,"Nota, fornecedor, moeda e valor conferem."
+,,,,LW-220,LocaleWorks,1500.0,SEM PAGAMENTO NO EXTRATO,Nota não foi associada a nenhuma transação do extrato.
+,,,,SB-100,ScriptBridge,990.0,SEM PAGAMENTO NO EXTRATO,Nota não foi associada a nenhuma transação do extrato.
+,,,,NL-501,NovaLingo,650.0,SEM PAGAMENTO NO EXTRATO,Nota não foi associada a nenhuma transação do extrato.
+,,,,GB-404,GlobalWords,400.0,SEM PAGAMENTO NO EXTRATO,Nota não foi associada a nenhuma transação do extrato.
